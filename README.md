@@ -1,8 +1,10 @@
 ### Hello there 👋
 
 - 👨‍💻 I’m currently working on improving my Machine Learning and Deep Learning skills
-- 📘 I’m currently learning Deep Learning and Applied Artificial Intelligence in Finance.
+- 📘 I’m currently learning Deep Learning and Applied Artificial Intelligence in Finance (Yves Hilpisch).
 - 👯 I’m currently looking for Data Analytics and Machine Learning internship (Starting from 03 April, 2023 to 09 June, 2023)
+- ✨ My public repositories are a collection of my practice coding projects and university assignments.
+- 🤵 Pronouns: He/Him
  
 
 Thanks for visiting!
