@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-### 👯 Looking for Data Analytics and Machine Learning internship (Starting from 03 April, 2023 to 09 June, 2023) 👯
+### 👯 Looking for Data Analytics and Machine Learning internship (Starting from 03 April, 2023 to 09 June, 2023)
 
 - 📖 Currently learning Deep Learning and Applied Artificial Intelligence in Finance (Yves Hilpisch).
 - ✨ My public repositories are for showing my practice coding projects and university assignments.
