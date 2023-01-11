@@ -1,7 +1,8 @@
 ## Hello there 👋
 
+### 👯 Looking for Data Analytics and Machine Learning internship (Starting from 03 April, 2023 to 09 June, 2023) 👯
+
 - 📖 Currently learning Deep Learning and Applied Artificial Intelligence in Finance (Yves Hilpisch).
-- 👯 Looking for Data Analytics and Machine Learning internship (Starting from 03 April, 2023 to 09 June, 2023)
 - ✨ My public repositories are for showing my practice coding projects and university assignments.
 - 🪙 DeFi project (university CeFi&DeFi course's assignment) will begin around February, 2023 - (Blockchain, Solidity, and Full Stack Web3 Development using JavaScript and NextJS).
 - 👨‍💻 Languages: Python, C, JavaScript, HTML&CSS, MySQL
