@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there 👋
+
+- 👨‍💻 I’m currently working on improving my Machine Learning and Deep Learning skills
+- 📘 I’m currently learning Deep Learning and Applied Artificial Intelligence in Finance.
+- 👯 I’m currently looking for Data Analytics and Machine Learning internship (Starting from 03 April, 2023 to 09 June, 2023)
+ 
+
+Thanks for visiting!
 
 <!--
 **AlienX77-cmd/AlienX77-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
