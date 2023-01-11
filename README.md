@@ -6,7 +6,7 @@
 - 📁 My public repositories are for showing my practice coding projects and university assignments.
 - 🪙 DeFi project (university CeFi&DeFi course's assignment) will begin around February, 2023 - (Blockchain, Solidity, and Full Stack Web3 Development using JavaScript and NextJS).
 - 👨‍💻 Languages: Python, C, C++, JavaScript, HTML&CSS, MySQL
-- 🤵 Also, Kittipak is currently dying from too much homework because he enrolled in "too many courses" for his second semester in his third year.
+- 🤵 Also, Kittipak is currently dying from too much homework because he has enrolled in "too many courses" for his second semester in his third year.
  
 
 Thanks for visiting!
