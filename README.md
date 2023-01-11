@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-- 📘 I’m currently learning Deep Learning and Applied Artificial Intelligence in Finance (Yves Hilpisch).
-- 👯 I’m currently looking for Data Analytics and Machine Learning internship (Starting from 03 April, 2023 to 09 June, 2023)
+- 📖 Currently learning Deep Learning and Applied Artificial Intelligence in Finance (Yves Hilpisch).
+### - 👯 Looking for Data Analytics and Machine Learning internship (Starting from 03 April, 2023 to 09 June, 2023)
 - ✨ My public repositories are for showing my practice coding projects and university assignments (DeFi project incoming soon (using JS and NextJS)).
 - 🤵 Pronouns: He/Him
  
