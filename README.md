@@ -4,7 +4,7 @@
 
 - 📖 Currently learning Deep Learning and reading Applied Artificial Intelligence in Finance (Yves Hilpisch, 2020).
 - 📁 My public repositories are for showing my practice coding projects and university assignments.
-- 👨‍💻 Languages: Python, C, C++, JavaScript, HTML&CSS, MySQL
+- 👨‍💻 Languages: Python, C, C++, JavaScript, HTML&CSS, MySQL, Assembly
  
 Thanks for visiting!
 
