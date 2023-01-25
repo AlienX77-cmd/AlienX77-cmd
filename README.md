@@ -2,7 +2,7 @@
 
 ## 👯 I'm looking for Data Analytics and Machine Learning internship (Starting from 03 April, 2023 to 09 June, 2023 ( Contract: kittipak.wi@ku.th )) 👯
 
-- 📖 Currently about to start learning Deep Learning
+- 📖 Currently reading a lot of books...
 - 📁 My public repositories are for showing my practice coding projects and university assignments.
 - 👨‍💻 Languages: Python, C, C++, JavaScript, HTML&CSS, MySQL, Assembly
  
