@@ -5,7 +5,6 @@
 - 📖 Currently reading a lot of books...
 - 📁 My public repositories are for showing my practice coding projects and university assignments.
 - 👨‍💻 Languages: Python, C, C++, JavaScript, HTML&CSS, MySQL, Assembly
-- ♚  An INTJ-T // like playing chess, Minecraft, Destiny 2
  
 Thanks for visiting!
 
