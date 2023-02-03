@@ -2,7 +2,7 @@
 
 - 📖 Currently reading Artificial Intelligence in Finance (Yves Hilpisch, 2020) and Python for Finance - Mastering Data-Driven Finance (Yves Hilpisch, 2018)
 - 📁 My public repositories are for showing my practice coding projects and university assignments.
-- 👨‍💻 Languages: Python (Numpy, Pandas, Matplotlib, Seaborn, Sklearn, TensorFlow) , C, C++, JavaScript (React.js, Next.js, Node.js), HTML&CSS, MySQL, Assembly
+- 👨‍💻 Languages: Python, C, C++, JavaScript (React.js, Next.js, Node.js), HTML&CSS, MySQL, Assembly
 - ⚡ All interested fields: Machine Learning and Deep Learning, Quantitative and Computational Finance, Mechatronics, War studies, Algorithmic Warfare
 - 😄 He/him and I like (prefer) tomboy.
  
