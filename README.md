@@ -4,6 +4,7 @@
 - 📁 My public repositories are for showing my practice coding projects and university assignments.
 - 👨‍💻 Languages: Python, C, C++, JavaScript (React.js, Next.js, Node.js), HTML&CSS, MySQL, Assembly
 - ⚡ All interested fields: Machine Learning and Deep Learning, Quantitative and Computational Finance, Mechatronics, War studies, Algorithmic Warfare
+- 😄 He/Him and I like (prefer) Tomboy.
  
 Thanks for visiting!
 
