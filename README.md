@@ -1,5 +1,5 @@
 - Hi, I'm currently studying Bachelor of Engineering in Computer Engineering at Kasetsart University, Bangkok, Thailand.
-- Interested Fields: Machine Learning, Quantitative and Computational Finance (Both CeFi and DeFi), Security Engineering (Cryptography & Black Hat Python)
+- Interested Fields: Machine Learning, Quantitative and Computational Finance (Both CeFi and DeFi), Security Engineering (Cryptography & Black Hat Python), Electronic Circuits Design
 
 <!--
 **AlienX77-cmd/AlienX77-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
