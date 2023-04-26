@@ -1,7 +1,3 @@
-**กิตติภัค วิบูลเสถียร (Kittipak Wibulsthien) 6310505688**
-- Hi, I'm currently studying Bachelor of Engineering in Computer Engineering (Third Year) at Kasetsart University, Bangkok, Thailand.
-- Interested Fields: Machine Learning, Quantitative and Computational Finance (Both CeFi and DeFi), Security Engineering
-
 <!--
 **AlienX77-cmd/AlienX77-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
