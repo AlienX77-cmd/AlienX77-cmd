@@ -1,4 +1,4 @@
-"In the world full of chaos, who shall bring it to an end?"
+**"In the world full of chaos, who shall bring it to an end?, who will be conquered and who will conquer?"
 
 <!--
 **AlienX77-cmd/AlienX77-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
