@@ -1,4 +1,6 @@
-**In the world full of chaos, who shall bring it to an end?, who will be conquered and who will conquer?
+**In the world full of chaos, who shall bring it to an end?, who will be ruled and who will be the conqueror?
+Only the next great war will grant the absolute power to the greatest victor and I have been waiting for this moment for my whole life.
+I only swing my sword once, but I have sharpened it for more than ten years.**
 
 <!--
 **AlienX77-cmd/AlienX77-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
