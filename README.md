@@ -1,4 +1,4 @@
-**publishing full-stack practice website soon**
+**publishing full-stack practice website soon (Node.js, Express, MongoDB (Mongoose), Pug and JavaScript)**
 <!--
 **AlienX77-cmd/AlienX77-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
