@@ -1,7 +1,7 @@
 **Fourth Year Computering Engineering Student at Kasetsart University, Bangkok, Thailand (undergraduate program)**
 
-**Main Interested Fields**: Machine Learning & Deep Leaning and Data Science, Finance (Quantitative, Fundamental, and Technical Analysis, Econometrics)
-**Supplementary Fields**: Website Development, Blockchain Engineering
+Main Interested Fields: Machine Learning & Deep Leaning and Data Science, Finance (Quantitative, Fundamental, and Technical Analysis, Econometrics)
+Supplementary Fields: Website Development, Blockchain Engineering
 
 *"I swing my sword only once in my life, but I have spent over ten years honing its blade." - Sima Yi*
 
