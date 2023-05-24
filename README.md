@@ -4,6 +4,8 @@
 
 **Supplementary Fields:** Website Development, Blockchain Engineering
 
+**Also interested in:** Financial Engineering, Mechatronics, System Security, Biotechnology, War Studies and Classical Studies 
+
 *"I swing my sword only once in my life, but I have spent over ten years honing its blade." - Sima Yi*
 
 <!--
