@@ -1,5 +1,6 @@
 - Interested Fields: Machine Learning & Deep Learning and Data Science, Finance (Quantitative and Computational), Investing and Hedging Algorithms, Stochastic Calculus
-- Current Addicted Video Games: Honkai Star Rail, Minecraft
+- Programming Language: Python, C, C++, JavaScript
+- Current Addicted Video Games: Honkai Star Rail, Minecraft (Hypixel)
 
 <!--
 **AlienX77-cmd/AlienX77-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
