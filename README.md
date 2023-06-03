@@ -1,4 +1,4 @@
-- Interested Fields: Machine Learning & Deep Learning and Data Science, Finance (Quantitative and Computational), Investing and Hedging Algorithms
+- Interested Fields: Machine Learning & Deep Learning and Data Science, Finance (Quantitative and Computational), Investing and Hedging Algorithms, Stochastic Calculus
 - Current Addicted Video Games: Honkai Star Rail, Minecraft
 
 <!--
