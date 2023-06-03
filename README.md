@@ -1,3 +1,6 @@
+- Interested Fields: Machine Learning & Deep Learning and Data Science, Finance (Quantitative and Computational)
+- Current Addicted Video Games: Honkai Star Rail, Minecraft
+
 <!--
 **AlienX77-cmd/AlienX77-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
