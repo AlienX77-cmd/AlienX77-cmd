@@ -1,4 +1,4 @@
-- Hates lead to violence and that's when the funniest part starts.
+
 <!--
 **AlienX77-cmd/AlienX77-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
