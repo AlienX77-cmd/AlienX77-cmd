@@ -1,5 +1,4 @@
 **"Success is not final, failure is not fatal; it is the courage to continue that counts."**
-- Once the light bearer, then the darkness disciple.
 
 <!--
 **AlienX77-cmd/AlienX77-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
