@@ -1,7 +1,7 @@
 - **"Success is not final, failure is not fatal; it is the courage to continue that counts." - Winston Churchill**
 - Fourth Year Computer Engineering Student
 - Interested in Algorithmic Trading and Computational Finance (Applied in Both CeFi and DeFi), Machine Learning and Data Analysis, System Security
-- I have a dream of becoming one of the greatest investor in the world and hope that one day I will be able to pursue my path in machine learning (Applied ML in genome engineering and financial engineering).
+- I have a dream of becoming one of the greatest investor in the world (including having the highest net worth in the world) and hope that one day I will be able to pursue my path in machine learning (Applied ML in genome engineering and financial engineering).
 - *"The more you let go, the higher you rise."*
 
 <!--
