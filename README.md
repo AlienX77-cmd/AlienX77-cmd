@@ -1,5 +1,4 @@
 **"Success is not final, failure is not fatal; it is the courage to continue that counts."**
-- ถ้ามัวแต่ให้อภัย แล้วเมื่อไหร่จะได้ล้างแค้น. There is no place left for compromisation.
 
 <!--
 **AlienX77-cmd/AlienX77-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
