@@ -1,6 +1,8 @@
 - Fourth Year Computer Engineering Student
 - Braingasm and Investment Analysis Addiction
 - Interested in Quantitative and Computational Finance, Machine Learning and Data Analysis
+
+"Anger may in time change to gladness; vexation may be succeeded by content. But a kingdom that has once been destroyed can never come again into being; nor can the dead ever be brought back to life."
 <!--
 **AlienX77-cmd/AlienX77-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
