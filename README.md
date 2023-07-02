@@ -1,6 +1,5 @@
 - Fourth Year Computer Engineering Student
 - Braingasm and Investment Analysis Addiction
-- Interested in Quantitative and Computational Finance, Machine Learning and Data Analysis
 <!--
 **AlienX77-cmd/AlienX77-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
