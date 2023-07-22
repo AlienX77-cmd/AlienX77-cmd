@@ -3,6 +3,9 @@
 
 "You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do."
 — Eleanor Roosevelt
+
+"We generate fears while we sit. We overcome them by action."
+— Dr. Henry Link
 <!--
 **AlienX77-cmd/AlienX77-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
