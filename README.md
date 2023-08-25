@@ -1,4 +1,3 @@
-- Fourth Year Computer Engineering Student @ Kasetsart University, Thailand
 - Braingasm and Investment Analysis Addiction
 - Interested Fields: Computational Finance, Data Science, Deep Learning, Computer System Security
 
