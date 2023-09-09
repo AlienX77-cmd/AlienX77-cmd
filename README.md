@@ -1,5 +1,5 @@
-- Braingasm and Investment Analysis Addiction
-- Interested Fields: Computational Finance, Data Science, Deep Learning, Computer System Security
+Hello There!
+
 
 <!--
 **AlienX77-cmd/AlienX77-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
