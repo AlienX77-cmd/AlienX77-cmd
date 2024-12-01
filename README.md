@@ -4,7 +4,8 @@ Web Development:
 1) Frontend: Tkinter, React, TypeScript
 2) Backend: Flask (Python), Node.js (Express)
 3) Database: SQL (MySQL, MariaDB), MongoDB
-4) Version Control: Git/Github, CI/CD: Docker
+4) Version Control: Git/Github
+5) CI/CD: Docker
 
 Data Science / Machine Learning:
 - Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow
