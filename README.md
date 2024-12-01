@@ -1,5 +1,13 @@
-Hello There!
+My Tools are as the following:
 
+Web Development:
+1) Frontend: Tkinter, React, TypeScript
+2) Backend: Flask (Python), Node.js (Express)
+3) Database: SQL (MySQL, MariaDB), MongoDB
+4) Version Control: Git/Github, CI/CD: Docker
+
+Data Science / Machine Learning:
+- Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow
 
 <!--
 **AlienX77-cmd/AlienX77-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
