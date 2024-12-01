@@ -1,15 +1,16 @@
-My Tools are as the following:
+⚡My Tools are as the following⚡
 
 Web Development:
-1) Frontend: Tkinter, React, TypeScript
-2) Backend: Flask (Python), Node.js (Express)
-3) Database: SQL (MySQL, MariaDB), MongoDB
-4) Version Control: Git/Github
-5) CI/CD: Docker
+- Frontend: Tkinter, React, TypeScript
+- Backend: Flask (Python), Node.js (Express)
+- Database: SQL (MySQL, MariaDB), MongoDB
+- API: RESTful API
+- Version Control: Git/Github
+- CI/CD: Docker
 
 Data Science / Machine Learning:
 - Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow
-
+- Finance: yahoofinance API
 <!--
 **AlienX77-cmd/AlienX77-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
