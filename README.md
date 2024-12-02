@@ -15,7 +15,7 @@ Data Science / Machine Learning:
 - Finance: yahoofinance API
 
 Big Data / Data Engineering:
-- Docker, Kafka, Hive, Airflow, Hadoop MapReduce, Pyspark
+- Docker, Kubernetes, Kafka, Hive, Airflow, Hadoop MapReduce, Pyspark
 <!--
 **AlienX77-cmd/AlienX77-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
