@@ -10,7 +10,11 @@ Web Development:
 
 Data Science / Machine Learning:
 - Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow
+- Numerical Method, Statistics, Probability
 - Finance: yahoofinance API
+
+Big Data / Data Engineering:
+- Docker, Kafka, Hive, Airflow, Hadoop MapReduce, Pyspark
 <!--
 **AlienX77-cmd/AlienX77-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
