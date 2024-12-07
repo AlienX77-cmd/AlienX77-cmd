@@ -7,7 +7,7 @@ Web Development:
 - API: RESTful API
 - Version Control: Git/Github
 - CI/CD: Docker
-- Linux (wsl2, Kali Linux)
+- Linux Commands (wsl2, Kali Linux)
 
 Data Science / Machine Learning:
 - Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow
