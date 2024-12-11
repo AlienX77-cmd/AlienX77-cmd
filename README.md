@@ -1,8 +1,8 @@
 ⚡My Tools are as the following⚡
 
 Web Development:
-- Frontend: Tkinter, React, TypeScript
-- Backend: Flask and FastAPI - [Python], Node.js - Express Framework, Spring Boot - [Java]
+- Frontend: Tkinter, React
+- Backend: Flask - [Python], Node.js - Express Framework, Spring Boot - [Java]
 - Database: SQL (MySQL, MariaDB), MongoDB
 - API: RESTful API
 - Version Control: Git/Github
