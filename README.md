@@ -2,7 +2,7 @@
 
 **Web Development:**
 - **Frontend:** Tkinter, React
-- **Backend:** Flask - [Python], Node.js - Express Framework, Spring Boot - [Java], Golang
+- **Backend:** **(1)** Flask - [Python], **(2)** Node.js - Express Framework, **(3)** Spring Boot - [Java], **(4)** Golang
 - **Database:** SQL (MySQL, MariaDB), MongoDB
 - **API:** RESTful API, GraphQL
 - **Version Control:** Git/Github
