@@ -1,8 +1,8 @@
 ✨Hello, I am looking for a role in:✨
-**1. Junior Software Engineer**
-**2. Backend Engineer**
-**3. Full-Stack Engineer**
-**4. Machine Learning Engineer**
+1. Junior Software Engineer
+2. Backend Engineer
+3. Full-Stack Engineer
+4. Machine Learning Engineer
 
 ⚡My Tools are as the following⚡
 
