@@ -7,7 +7,7 @@
 ⚡My Tools are as the following⚡
 
 **Web Development:**
-- **Frontend:** Tkinter, React
+- **Frontend:** Tkinter, React, JavaScript
 - **Backend:** **(1)** Flask - [Python], **(2)** Node.js - Express Framework, **(3)** Spring Boot - [Java], **(4)** Golang
 - **Database:** SQL (MySQL, MariaDB), MongoDB
 - **API:** RESTful API, GraphQL
