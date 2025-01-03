@@ -1,4 +1,4 @@
-✨Hello, I am looking for a role in:✨
+✨Hello, I am a fresh graduate in Computer Engineering from Kasetsart University and I am currently looking for a role in:✨
 1. Junior Software Engineer
 2. Backend Engineer
 3. Full-Stack Engineer
