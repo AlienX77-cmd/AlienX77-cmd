@@ -7,18 +7,19 @@
 ⚡My Tools are as the following⚡
 
 **Web Development:**
-- **Frontend:** Tkinter, React, JavaScript
+- **Programming Language**: Python, Java, C, Golang, 
+- **Frontend:** Tkinter, JavaScript, React, Vue, Nuxt, Tailwind CSS
 - **Backend:** **(1)** Flask - [Python], **(2)** Node.js - Express Framework, **(3)** Spring Boot - [Java], **(4)** Golang
-- **Database:** SQL (MySQL, MariaDB), MongoDB
+- **Database:** SQL (MySQL, MariaDB, PostgreSQL), MongoDB
 - **API:** RESTful API, GraphQL
 - **Version Control:** Git/Github
 - **CI/CD:** Docker
 - **Linux Commands** (wsl2, Kali Linux)
 
 **Data Science / Machine Learning:**
-- Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow
-- Numerical Method, Statistics, Probability
-- Finance: yahoofinance API
+- **Libraries:** Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow
+- **Theories:** Numerical Method, Statistics, Probability
+- **API Finance:** yahoofinance API
 
 **Big Data / Data Engineering:**
 - Docker, Kubernetes, Kafka, Hive, Airflow, Hadoop MapReduce, Pyspark
