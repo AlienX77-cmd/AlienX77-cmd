@@ -1,5 +1,7 @@
 ✨Hello, I am a fresh graduate in Computer Engineering from Kasetsart University.✨
 
+I have high experience in Machine Learning and Data Analytics with Python. Right now, I am currently working as Junior Full Stack Developer and developing web applications and softwares with secure coding.
+
 My Website: https://nuxt-portfolio-alienx77-cmds-projects.vercel.app/
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlienX77-cmd&theme=transparent)
